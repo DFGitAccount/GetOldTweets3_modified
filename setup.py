@@ -15,7 +15,7 @@ setuptools.setup(
     description="Get old tweets from Twitter",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Mottl/GetOldTweets3",
+    url="https://github.com/DFGitAccount/GetOldTweets3_modified",
     keywords="twitter tweets",
     packages=setuptools.find_packages(),
     scripts=['bin/GetOldTweets3'],
